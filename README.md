@@ -1,9 +1,5 @@
 Malware Detection using Open Source Intelligence
 
-****Done By :****
-
-Bennet Benny
-
 ****Modification :****
 
 1 . Added a function hashFunction() which takes input the filepath of the file that needs
